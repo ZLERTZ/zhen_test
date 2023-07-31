@@ -1,0 +1,16 @@
+{
+    "name": "zhen-test/zhen",
+    "description": "ces",
+    "autoload": {
+        "psr-4": {
+            "ZhenTest\\Zhen\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ALERTZ",
+            "email": "525829345@qq.com"
+        }
+    ],
+    "require": {}
+}
